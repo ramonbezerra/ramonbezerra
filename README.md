@@ -16,8 +16,6 @@
 
 ###
 
- — especially about new technologies and self-help methodologies for example
-
 <p align="left">🛠️ I'm also working on my own church managment system, the <a href="https://github.com/ramonbezerra/arka-hub">Arka Hub</a>.</p>
 
 ###
