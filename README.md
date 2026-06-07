@@ -141,3 +141,5 @@
 </div>
 
 ###
+
+_Thanks for visiting my GitHub — feel free to explore my projects or drop a message. Let’s build cool stuff together!_
