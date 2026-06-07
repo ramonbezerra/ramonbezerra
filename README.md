@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left"> Hi there 👋 I'm Ramon Bezerra da Nóbrega.</h1>
+<h1 align="left">Hey there! I'm Ramon Bezerra da Nóbrega.</h1>
 
 ###
 
@@ -125,8 +125,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ramonbezerra&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://raw.githubusercontent.com/ramonbezerra/ramonbezerra/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=ramonbezerra&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
