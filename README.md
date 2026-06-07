@@ -1,5 +1,3 @@
-###
-
 <h1 align="left"> Hi there 👋 I'm Ramon Bezerra da Nóbrega.</h1>
 
 <p><strong>Full-Stack Software Engineer | Tech Lead | B.Sc. in Computer Science | API-First | Scalable Systems | AI & Cloud Enthusiast</strong></p>
