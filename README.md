@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Hey there! I'm Ramon Bezerra da Nóbrega.</h1>
+<h1 align="left"> Hi there 👋 I'm Ramon Bezerra da Nóbrega.</h1>
 
 ###
 
