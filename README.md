@@ -2,6 +2,8 @@
 
 <h1 align="left"> Hi there 👋 I'm Ramon Bezerra da Nóbrega.</h1>
 
+<p><strong>Full-Stack Software Engineer | Tech Lead | B.Sc. in Computer Science | API-First | Scalable Systems | AI & Cloud Enthusiast</strong></p>
+
 ###
 
 <p align="left">A Brazilian passionate about software development and programming teaching since 2016.</p>
@@ -16,7 +18,9 @@
 
 ###
 
-<p align="left">📲 I'm also working on my own church managment system, the Arka Hub.</p>
+ — especially about new technologies and self-help methodologies for example
+
+<p align="left">🛠️ I'm also working on my own church managment system, the <a href="https://github.com/ramonbezerra/arka-hub">Arka Hub</a>.</p>
 
 ###
 
@@ -24,11 +28,15 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning about agentic systems, critical systems, cybersecurity, DevOps and improving my language skills.</p>
+<p align="left">🌱 I’m currently learning about agentic systems, critical systems, cybersecurity, DevOps and improving my language skills. Always learning 🧠!</p>
 
 ###
 
 <p align="left">📄 Know about my experiences into <strong>my resume</strong> <a href="https://canva.link/o0vw8yptqo3tkhx">here</a>.</p>
+
+###
+
+<p align="left">💬 Let's talk tech, code, startups, or anything in between!</p>
 
 ###
 
